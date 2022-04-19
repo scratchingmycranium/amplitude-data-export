@@ -1,0 +1,20 @@
+{
+  "name": "amplitude-data-export",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "scratchingmycranium",
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "^0.5.9",
+    "etl": "^0.7.0",
+    "node-libcurl": "^2.3.4",
+    "pako": "^2.0.4",
+    "prompt-sync": "^4.2.0",
+    "tmp": "^0.2.1",
+    "unzipper": "^0.10.11"
+  }
+}
